@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Kaynak Dosyalar">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Üst Bilgi Dosyaları">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Kaynak Dosyaları">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Kaynak Dosyalar\ObjectOrientedProgramlama">
+      <UniqueIdentifier>{497b0e57-4ec6-4e4e-8d71-5509cd9a610e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Kaynak Dosyalar\AlgoritmaGelistirme">
+      <UniqueIdentifier>{6a944cc5-cde2-45ae-8866-4b21aff14131}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="otomobil.cpp">
+      <Filter>Kaynak Dosyalar\ObjectOrientedProgramlama</Filter>
+    </ClCompile>
+    <ClCompile Include="MainProje.cpp">
+      <Filter>Kaynak Dosyalar\ObjectOrientedProgramlama</Filter>
+    </ClCompile>
+    <ClCompile Include="AlgoritmaGelistirmeA0_Ornek_1.cpp">
+      <Filter>Kaynak Dosyalar\AlgoritmaGelistirme</Filter>
+    </ClCompile>
+    <ClCompile Include="AlgoritmaGelistirmeA1_.cpp">
+      <Filter>Kaynak Dosyalar\AlgoritmaGelistirme</Filter>
+    </ClCompile>
+    <ClCompile Include="AlgoritmaGelistirmeA2_2SinavSorusu.cpp">
+      <Filter>Kaynak Dosyalar\AlgoritmaGelistirme</Filter>
+    </ClCompile>
+    <ClCompile Include="a0_HelloWorld.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="a1_1SinavSorusu.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="a2_Kullanicidan_Veri_Alma.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="a3_Aritmatik_Islemler.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="a4_Cmath_Kutuphanesi_Kullanim.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="a5_If_Else_Kullanimi.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="a6_If_else_kullanimi2.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="a7_Printf_Scanf_metotlaricpp.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="a8_ Mantiksal_Operatorler.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="a9_Sinav1.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="b10_While_Dongusu.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="b11_Do_While_Döngüsu.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="b12_For_Dongusu.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="b13_For_Dongusu_Ornek_Soru.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="b14_Break_Continue_kullanimi.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="b15_Ic_ice_donguler_Ornek_Sorular.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="b16_Switch_Case_Kullanimi.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="b17_Arrays_Dizeler_Kullanimi.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="b18_Arrays_Cok_Boyutlu_Dizler.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="b19_Fonksiyonlar_ReturnKullanimi.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="c20_Overloading_Kullanimi.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="c21_Static_Const.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="c22_Pointers_BabaKonu.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="c23_Referans_Array_Pointerlar.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="c24_NewDelete_DinamikBellekYonetimi.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="c25_PointerSoruCozumu.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="c26_DizilerinFonksiyonlardaParametreOlarakKullanilmasi.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="c27_ArraysSoruCozumu.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="c28_TryCatch_Kullanimi.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="c29_CallByReference.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="otomobil.h">
+      <Filter>Kaynak Dosyalar\ObjectOrientedProgramlama</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
