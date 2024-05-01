@@ -5,18 +5,15 @@
 using namespace std;
 
 int main() {
-	Otomobil otomobil1, otomobil2;
+	Otomobil otomobil1("Siyah", "Mercedes Benz E 200 d", 150);       //objele oluþturulmuþ ve özellikleri verilmiþ
+	Otomobil otomobil2("Mavi", "BWM M5", 20);   
 
-	otomobil1.renk = "Siyah";
-	otomobil1.beygirGucu = 150;
-	otomobil1.model = "Mercedes Benz E 200 d";
-
-
-	otomobil2.renk = "Mavi";
-	otomobil2.beygirGucu = 80;
-	otomobil2.model = "BWM M5";
-
+	otomobil1.ruhsatBilgileriGoster();  
+	otomobil1.setOtomobilUretici("Mercedes");
 	otomobil1.ruhsatBilgileriGoster();
+
+	otomobil2.setOtomobilUretici("Trash Inc.");
+	otomobil2.setOtomobilBeygirGucu(45);
 	otomobil2.ruhsatBilgileriGoster();
 
 	return 0;
