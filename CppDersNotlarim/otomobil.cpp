@@ -1,11 +1,18 @@
 #include "otomobil.h"
 
-
-Otomobil::Otomobil(string _renk, string _model, int _beygirGucu) { // Otomobil Constructors (yapýcý)
+//Otomobil Constructor
+Otomobil::Otomobil(string _renk, string _model, int _beygirGucu, int kp) { // Otomobil Constructors (yapýcý)
+	cout << "Constructor cagrildi!" << endl;
 	renk = _renk;
 	model = _model;
 	beygirGucu = _beygirGucu;
 	uretici = "Volkswagen";
+	pKapiSayisi = new int(kp); //*pKapiSayisi = kp;
+}
+
+//Otomobil Destrctor
+Otomobil::~Otomobil() {
+	cout << "Destrctor cagrildi!" << endl;
 }
 
 void Otomobil::ruhsatBilgileriGoster() {               // ruhsat bilgilerini göster adýnda fonksiyon oluþturulmuþ

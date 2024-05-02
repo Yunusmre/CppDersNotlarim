@@ -19,6 +19,9 @@
     <Filter Include="Kaynak Dosyalar\AlgoritmaGelistirme">
       <UniqueIdentifier>{6a944cc5-cde2-45ae-8866-4b21aff14131}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Kaynak Dosyalar\Dersler">
+      <UniqueIdentifier>{2f0009ec-4aaf-4a87-97f4-31d185e400b3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="otomobil.cpp">
@@ -37,94 +40,94 @@
       <Filter>Kaynak Dosyalar\AlgoritmaGelistirme</Filter>
     </ClCompile>
     <ClCompile Include="a0_HelloWorld.cpp">
-      <Filter>Kaynak Dosyalar</Filter>
+      <Filter>Kaynak Dosyalar\Dersler</Filter>
     </ClCompile>
     <ClCompile Include="a1_1SinavSorusu.cpp">
-      <Filter>Kaynak Dosyalar</Filter>
+      <Filter>Kaynak Dosyalar\Dersler</Filter>
     </ClCompile>
     <ClCompile Include="a2_Kullanicidan_Veri_Alma.cpp">
-      <Filter>Kaynak Dosyalar</Filter>
+      <Filter>Kaynak Dosyalar\Dersler</Filter>
     </ClCompile>
     <ClCompile Include="a3_Aritmatik_Islemler.cpp">
-      <Filter>Kaynak Dosyalar</Filter>
+      <Filter>Kaynak Dosyalar\Dersler</Filter>
     </ClCompile>
     <ClCompile Include="a4_Cmath_Kutuphanesi_Kullanim.cpp">
-      <Filter>Kaynak Dosyalar</Filter>
+      <Filter>Kaynak Dosyalar\Dersler</Filter>
     </ClCompile>
     <ClCompile Include="a5_If_Else_Kullanimi.cpp">
-      <Filter>Kaynak Dosyalar</Filter>
+      <Filter>Kaynak Dosyalar\Dersler</Filter>
     </ClCompile>
     <ClCompile Include="a6_If_else_kullanimi2.cpp">
-      <Filter>Kaynak Dosyalar</Filter>
+      <Filter>Kaynak Dosyalar\Dersler</Filter>
     </ClCompile>
     <ClCompile Include="a7_Printf_Scanf_metotlaricpp.cpp">
-      <Filter>Kaynak Dosyalar</Filter>
+      <Filter>Kaynak Dosyalar\Dersler</Filter>
     </ClCompile>
     <ClCompile Include="a8_ Mantiksal_Operatorler.cpp">
-      <Filter>Kaynak Dosyalar</Filter>
+      <Filter>Kaynak Dosyalar\Dersler</Filter>
     </ClCompile>
     <ClCompile Include="a9_Sinav1.cpp">
-      <Filter>Kaynak Dosyalar</Filter>
+      <Filter>Kaynak Dosyalar\Dersler</Filter>
     </ClCompile>
     <ClCompile Include="b10_While_Dongusu.cpp">
-      <Filter>Kaynak Dosyalar</Filter>
+      <Filter>Kaynak Dosyalar\Dersler</Filter>
     </ClCompile>
     <ClCompile Include="b11_Do_While_Döngüsu.cpp">
-      <Filter>Kaynak Dosyalar</Filter>
+      <Filter>Kaynak Dosyalar\Dersler</Filter>
     </ClCompile>
     <ClCompile Include="b12_For_Dongusu.cpp">
-      <Filter>Kaynak Dosyalar</Filter>
+      <Filter>Kaynak Dosyalar\Dersler</Filter>
     </ClCompile>
     <ClCompile Include="b13_For_Dongusu_Ornek_Soru.cpp">
-      <Filter>Kaynak Dosyalar</Filter>
+      <Filter>Kaynak Dosyalar\Dersler</Filter>
     </ClCompile>
     <ClCompile Include="b14_Break_Continue_kullanimi.cpp">
-      <Filter>Kaynak Dosyalar</Filter>
+      <Filter>Kaynak Dosyalar\Dersler</Filter>
     </ClCompile>
     <ClCompile Include="b15_Ic_ice_donguler_Ornek_Sorular.cpp">
-      <Filter>Kaynak Dosyalar</Filter>
+      <Filter>Kaynak Dosyalar\Dersler</Filter>
     </ClCompile>
     <ClCompile Include="b16_Switch_Case_Kullanimi.cpp">
-      <Filter>Kaynak Dosyalar</Filter>
+      <Filter>Kaynak Dosyalar\Dersler</Filter>
     </ClCompile>
     <ClCompile Include="b17_Arrays_Dizeler_Kullanimi.cpp">
-      <Filter>Kaynak Dosyalar</Filter>
+      <Filter>Kaynak Dosyalar\Dersler</Filter>
     </ClCompile>
     <ClCompile Include="b18_Arrays_Cok_Boyutlu_Dizler.cpp">
-      <Filter>Kaynak Dosyalar</Filter>
+      <Filter>Kaynak Dosyalar\Dersler</Filter>
     </ClCompile>
     <ClCompile Include="b19_Fonksiyonlar_ReturnKullanimi.cpp">
-      <Filter>Kaynak Dosyalar</Filter>
+      <Filter>Kaynak Dosyalar\Dersler</Filter>
     </ClCompile>
     <ClCompile Include="c20_Overloading_Kullanimi.cpp">
-      <Filter>Kaynak Dosyalar</Filter>
+      <Filter>Kaynak Dosyalar\Dersler</Filter>
     </ClCompile>
     <ClCompile Include="c21_Static_Const.cpp">
-      <Filter>Kaynak Dosyalar</Filter>
+      <Filter>Kaynak Dosyalar\Dersler</Filter>
     </ClCompile>
     <ClCompile Include="c22_Pointers_BabaKonu.cpp">
-      <Filter>Kaynak Dosyalar</Filter>
+      <Filter>Kaynak Dosyalar\Dersler</Filter>
     </ClCompile>
     <ClCompile Include="c23_Referans_Array_Pointerlar.cpp">
-      <Filter>Kaynak Dosyalar</Filter>
+      <Filter>Kaynak Dosyalar\Dersler</Filter>
     </ClCompile>
     <ClCompile Include="c24_NewDelete_DinamikBellekYonetimi.cpp">
-      <Filter>Kaynak Dosyalar</Filter>
+      <Filter>Kaynak Dosyalar\Dersler</Filter>
     </ClCompile>
     <ClCompile Include="c25_PointerSoruCozumu.cpp">
-      <Filter>Kaynak Dosyalar</Filter>
+      <Filter>Kaynak Dosyalar\Dersler</Filter>
     </ClCompile>
     <ClCompile Include="c26_DizilerinFonksiyonlardaParametreOlarakKullanilmasi.cpp">
-      <Filter>Kaynak Dosyalar</Filter>
+      <Filter>Kaynak Dosyalar\Dersler</Filter>
     </ClCompile>
     <ClCompile Include="c27_ArraysSoruCozumu.cpp">
-      <Filter>Kaynak Dosyalar</Filter>
+      <Filter>Kaynak Dosyalar\Dersler</Filter>
     </ClCompile>
     <ClCompile Include="c28_TryCatch_Kullanimi.cpp">
-      <Filter>Kaynak Dosyalar</Filter>
+      <Filter>Kaynak Dosyalar\Dersler</Filter>
     </ClCompile>
     <ClCompile Include="c29_CallByReference.cpp">
-      <Filter>Kaynak Dosyalar</Filter>
+      <Filter>Kaynak Dosyalar\Dersler</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
